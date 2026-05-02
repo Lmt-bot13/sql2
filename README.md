@@ -1,11 +1,14 @@
 # BÀI KIỂM TRA SỐ 2 – HỆ QUẢN TRỊ CSDL SQL SERVER
 
 **Họ và tên:** Lưu Minh Trí
+
 **Mã sinh viên:** K235480106104
+
+
 **Lớp:** K59KMT.K01  
+
 **Đề tài:** Quản lý lịch thi  
 
----
 
 # PHẦN MỞ ĐẦU
 
